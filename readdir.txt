@@ -1,0 +1,12 @@
+.git
+.gitignore
+cat.jpg
+index.js
+modules
+node_modules
+package-lock.json
+package.json
+proby readdir.txt
+readdir.js
+readdir.txt
+tekst.txt
